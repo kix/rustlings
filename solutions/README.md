@@ -4,3 +4,5 @@ Before you finish an exercise, its solution file will only contain an empty `mai
 The content of this file will be automatically replaced by the actual solution once you finish the exercise.
 
 Note that these solutions are often only _one possibility_ to solve an exercise.
+
+Cheats: https://gitlab.com/johnmsanchez/rustlings-solutions/-/blob/main/hashmaps/hashmaps1.rs?ref_type=heads
